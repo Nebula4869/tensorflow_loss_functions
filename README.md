@@ -1,5 +1,3 @@
- <p float="left"><img src="https://github.com/N
-
 # tensorflow_loss_functions
 
 Train CNN with multiple loss functions and test the effect of feature extraction on MNIST
